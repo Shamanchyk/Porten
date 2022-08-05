@@ -1,0 +1,496 @@
+body{
+    margin: auto;
+    font-family: 'PT Sans';
+    font-style: normal;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.top_line {
+    width: 100%;
+    height: 44px;
+    background: #000000;
+}
+.conteiner {
+    box-sizing: border-box;
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img_phone{
+    margin: 14px 15px 14px 0;
+}
+#img_work1{
+    padding: 14px 580px 14px 0;
+}
+#img_work2{
+    padding: 14px 0;
+}
+#img_sharp{
+    padding: 15px 10px 15px 0;
+}
+.second_line{
+    height: 80px;
+    background: #0F0F0F;
+}
+.conteiner h2{
+    font-family: 'Post No Bills Jaffna';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #FFFFFF;
+    margin: 0;
+    padding: 15px 469px 16px 0;
+}
+.second_line_content{
+    display: flex;
+}
+.content2{
+    display: flex;
+}
+.menu_item{
+    width: auto;
+    height: auto;
+    margin: 0;
+    
+}
+.menu_item h3{
+    background: #1F1F1F;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+    padding: 31px 20px;
+}
+
+.second_line_content span{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #969696;
+    padding: 31px 20px 31px 20px;
+}
+.second_line_content img{
+    width: 22px;
+    height: 22px;
+    padding: 29px 0;
+}
+#img1{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.first_scrin {
+    
+    background: url(img/Rectangle\ 31.png);
+
+    height: 810px;
+}
+.logo {
+    padding: 10px 0 0 0;
+}
+.group {
+    box-sizing: border-box;
+    width: 320px;
+    height: 320px;
+    border: 4px solid #FFFFFF;
+    margin: 150px auto 80px;
+}
+.group h2{
+    font-family: 'Post No Bills Jaffna';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 96px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    height: 75px;
+    padding-top: 93px;
+    padding-bottom: 4px;
+}
+.line1 {
+    width: 179px;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+}
+.group h3{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 7px auto 0;
+}
+.first_scrin p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 730px;
+    margin: 0 auto;
+}
+
+.season1 {
+    display: flex;
+    height: 730px;
+}
+.new_season {
+    width: 1040px;
+    background: #000000;
+}
+.new_season h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 93px;
+}
+
+.line2 {
+    width: 120px;
+    border: 1px solid #FFFFFF;
+    margin: 50px auto;
+}
+.line2_2{
+    width: 120px;
+    border: 1px solid #FFFFFF;
+    margin: 40px auto 40px;
+}
+.groups {
+    display: flex;
+    justify-content: space-between;
+    width: 880px;
+    margin: 0px auto;
+}
+.group1 {
+    width: auto;
+    height: auto;
+}
+.group1 img{
+    padding: 55px 22px 56px 23px;
+    background: #191B1C;
+}
+.groups h4{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 25px 0 10px 0;
+}
+.groups h5{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #D0D0D0;
+    margin: 0;
+}
+
+.new_collection1 {
+    width: 880px;
+    background: url(img/Rectangle\ 81.png);
+}
+.new_collection1 h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 484px;
+}
+.line2_1{
+    width: 120px;
+    border: 1px solid #FFFFFF;
+    margin: 30px auto;
+}
+.frame1{
+    box-sizing: border-box;
+    width: 138px;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+}
+.frame1 h4{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 12px 28px;
+}
+
+.season2 {
+    display: flex;
+    height: 600px;
+    width: 100%;
+}
+.new_collection2{
+    width: 880px;
+    background: url(img/Rectangle\ 91.png);
+}
+.new_season2{
+    width: 1040px;
+    background: #000000;
+}
+.new_season2 h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 93px;
+}
+.new_season2 p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 471px;
+    margin: 0 auto 61px;
+}
+.frame2{
+    box-sizing: border-box;
+    width: 315px;
+    border: 1px solid #FFFFFF;
+    margin: 0 auto;
+}
+.frame2 h4{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 12px 28px;
+}
+
+.new_goods{
+    background: #000000;
+    height: 1289px;
+}
+.new_goods h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 120px;
+}
+.line2_3{
+    width: 120px;
+    border: 1px solid #FFFFFF;
+    margin: 40px auto 81px;
+}
+.groups_flex_1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 40px;
+    width: 1110px;
+}
+.groups_flex_2{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 1110px;
+}
+.groups_flex1{
+    width: auto;
+    height: auto;
+    
+}
+.groups_flex1 img{
+    padding: 55px 22px 56px 23px;
+    background: #191B1C;
+}
+.groups_flex1 h4{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 25px 0 10px 0;
+}
+.groups_flex1 h5{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #D0D0D0;
+    margin: 0;
+}
+
+.our_brands {
+    height: 362px;
+    background: #0F0F0F;
+}
+.our_brands h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 60px;
+}
+.line2_4 {
+    width: 120px;
+    border: 1px solid #FFFFFF;
+    margin: 40px auto;
+}
+.foto_brands {
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    margin: 0 auto 80px;
+}
+
+.footer {
+    background: url(img/Rectangle\ 151.png);
+    height: 400px;
+}
+.footer_conteiner{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    margin: 0px auto 0;
+    width: 1110px;
+}
+.footer h3{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    padding-bottom: 40px;
+}
+.magazine {
+    width: 350px;
+    margin-right: 31px;
+}
+.footer p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin: 0%;
+}
+.categories {
+    margin-right: 90px;
+}
+.cat_frame1{
+    display: flex;
+    justify-content: space-between;
+    width: 290px;
+}
+.frame_1 {
+    background: #0F0F0F;
+    text-align: center;
+}
+.cat_frame2{
+    display: flex;
+    justify-content: space-between;
+    width: 278px;
+    padding-top: 20px;
+}
+.footer h4{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #D0D0D0;
+    margin: 0px;
+    padding: 10px 20px;
+}
+.rassulka {
+    width: 350px;
+}
+.rassulka2 {
+    display: flex;
+    padding-top: 37px;
+}
+.ras_img{
+    background: url(img/Rectangle\ 161.png);
+    height: 41px;
+}
+.ras_img p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #969696;
+    padding: 10px 122px 11px 15px;
+}
+.rassulka2 h4{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.last_line{
+    width: 100%;
+    height: 50px;
+    background: #0F0F0F;  
+}
+.last_line_block{
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    margin: 0 auto;
+}
+.last_line p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #D0D0D0;
+    margin: 0;
+    padding: 17px 0;
+}
