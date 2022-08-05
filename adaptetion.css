@@ -1,3 +1,16 @@
+@media only screen and (max-width: 1560px){
+
+    .group1 img {
+        padding: 50px 18px;
+        background: #191B1C;
+        width: 200px;
+        height: 200px;
+    }
+    .groups {
+        justify-content: space-around;
+    }
+}
+
 @media only screen and (max-width: 1200px) {
     
     body{
