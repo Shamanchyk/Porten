@@ -99,10 +99,10 @@ body{
 }
 
 .first_scrin {
-    background: url(img/Rectangle\ 31.png);
     height: 810px;
-    background-size: contain;
-    background-repeat: round;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
 }
 .logo {
     padding: 10px 0 0 0;
@@ -263,9 +263,9 @@ body{
 }
 .new_collection2{
     width: 880px;
-    background: url(img/Rectangle\ 91.png);
-    background-size: contain;
-    background-repeat: round;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
 }
 .new_season2{
     width: 1040px;
@@ -401,10 +401,10 @@ body{
 }
 
 .footer {
-    background: url(img/Rectangle\ 151.png);
     height: 400px;
-    background-size: contain;
-    background-repeat: round;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
 }
 .footer_conteiner{
     display: flex;
